@@ -15,7 +15,7 @@ Vous définirez pour chacune d'entre elle un langage graphique que vous explorer
 Votre travail fera évidemment preuve d'un sens graphique affiné et vous apporterez un soin particulier à la réalisation de celui-ci.
 
 ## Planning et Index
-## 01/03 | S1 | Introduction
+### 01/03 | S1 | Introduction
 * Introduction
 * Découverte et exploration du portail opendata
 * Requêtes HTTP et taxonomie JSON
@@ -24,28 +24,29 @@ Votre travail fera évidemment preuve d'un sens graphique affiné et vous apport
 * Première exploration graphique (sketching, recherche de  language, de formes...)
 * Excercice 1
 
-## 08/03 | S2 | Itération 1
+### 08/03 | S2 | Itération 1
 * Rendu exercice 1 : analyse et échanges
 * Excercice 2
 
-## 15/03 | S3 | Itération 2
+### 15/03 | S3 | Itération 2
 * Rendu exercice 2 : analyse et échanges
 * Exploration graphique 3 : échange standard
 * Excercice 3
 
-## 22/03 | S4 | Itération 3
+### 22/03 | S4 | Itération 3
 * Rendu exercice 3 : analyse et échanges
 * Exploration graphique 4
 * Excercice 4
 
-## 12/04 | S5 | Itération 4
+### 12/04 | S5 | Itération 4
 * Rendu exercice 4 : analyse et échanges
 * Recette graphique, export et rendu
 
-## Rendu de fin de session
+## Rendus
+### Rendu de fin de session
 À la fin de la session, il vous est demandé de rendre l'ensemble du travail effectué sous la forme d'une série d'affiches au format 50×70cm 300DPI accompagnés des sources (programmes, fichier svg, psd...) et des itérations graphiques
 
-## Nomenclature des affiches, format et information
+### Nomenclature des affiches, format et information
 Chacune de vos affiches respectera le format de _50×70cm à 300DPI_ selon l'orientation de votre choix. Vous ferait figurer pour chacune d'elles :
 * Titre (Set de données analysée et pattern présenté)
 * Définition courte du langage graphique employé (données utilisées et leur système de représentation)
@@ -53,13 +54,13 @@ Chacune de vos affiches respectera le format de _50×70cm à 300DPI_ selon l'ori
 * Nom de l'auteur
 * Lien vers la plateforme OpenData.Paris
 
-#Exercices
+### Exercices
 Durant chaque cours, vous questionnerez votre set de données sous un nouvel angle et définirez un nouveau langage graphique pour celui-ci. Vous débuterez vos explorations graphique et cours et les continuerez chez vous.
 
 En début de chaque cours, il vous sera demandé de rendre au minimum 3 itérations graphiques issues de votre exploration graphique. Ces itérations seront présentées sous le format d'affiche.
 Nous débuterons chaque cours par une analyse et critique de chaque itération tant sur le plan de la visualisation de données, de ses règles que de sa représentation graphique et son travail de mise en pages.
 
-#Outils
+## Outils
 Durant cette session vous serez libre d'utiliser l'ensemble des outils dont le designer dispose (suite Adobe, 3D...) afin de réaliser votre travail graphique.
 
 De même, pour le travail de récupération de donnée et programmation graphique, vous être libre de choisir le langage ou framework de votre choix (JS, P5, D3, processing, touchdesigner...)
