@@ -1,2 +1,2 @@
 # DI-DataArt19
-Data Art Course — e-art sup 2019
+![data art, Alexandre Rivaux, 2019](https://www.arivaux.com/preprod/bannergif.gif)
