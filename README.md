@@ -42,6 +42,23 @@ Votre travail fera évidemment preuve d'un sens graphique affiné et vous apport
 * Rendu exercice 4 : analyse et échanges
 * Recette graphique, export et rendu
 
+## Partiel (19/04/19)
+À partir du travail effectué durant la session Data Art vous réaliserez un poster de présentation de votre projet.
+Votre poster présentera de manière simple les éléments suivants : 
+
+* Votre nom, prénom
+* Rappel du brief comprenant :
+* * Rappel de la matière et filière
+* * Rappel du brief, temps de production et contrainte
+* * Présentation courte et succincte de la plateforme sur laquelle vous avez récupéré vos datas
+* Le choix justifié de vos datas, votre approche analytique de celle-ci.
+* Vos recherche/iterations graphique, vos recherches/itration en creative coding
+* Présentation de vos affiches définitives et leurs légendes si nécessaire
+
+Votre affiche sera réalisée au format 50×70 cm, CMNJ, 300DPI
+
+Vous préparez également vos affiches de data art finale au format 50×70, 300DPI, CMJN pour impression.
+
 ## Rendus
 ### Rendu de fin de session
 À la fin de la session, il vous est demandé de rendre l'ensemble du travail effectué sous la forme d'une série d'affiches au format 50×70cm 300DPI accompagnés des sources (programmes, fichier svg, psd...) et des itérations graphiques
