@@ -1,4 +1,4 @@
-# DI-DataArt19
+# DI-DataArt
 ![data art, Alexandre Rivaux, 2019](https://www.arivaux.com/preprod/bannergif.gif)
 
 ## Objectif du cours
@@ -15,7 +15,7 @@ Vous définirez pour chacune d'entre elle un langage graphique que vous explorer
 Votre travail fera évidemment preuve d'un sens graphique affiné et vous apporterez un soin particulier à la réalisation de celui-ci.
 
 ## Planning et Index
-### 01/03 | S1 | Introduction
+### S1 | Introduction
 * Introduction
 * Découverte et exploration du portail opendata
 * Requêtes HTTP et taxonomie JSON
@@ -24,25 +24,25 @@ Votre travail fera évidemment preuve d'un sens graphique affiné et vous apport
 * Première exploration graphique (sketching, recherche de  language, de formes...)
 * Excercice 1
 
-### 08/03 | S2 | Itération 1
+### S2 | Itération 1
 * Rendu exercice 1 : analyse et échanges
 * Excercice 2
 
-### 15/03 | S3 | Itération 2
+### S3 | Itération 2
 * Rendu exercice 2 : analyse et échanges
 * Exploration graphique 3 : échange standard
 * Excercice 3
 
-### 22/03 | S4 | Itération 3
+### S4 | Itération 3
 * Rendu exercice 3 : analyse et échanges
 * Exploration graphique 4
 * Excercice 4
 
-### 12/04 | S5 | Itération 4
+### S5 | Itération 4
 * Rendu exercice 4 : analyse et échanges
-* Recette graphique, export et rendu
+* Recette graphique, export et préparation du rendu
 
-## Partiel (19/04/19)
+## S6 | Rendu
 À partir du travail effectué durant la session Data Art vous réaliserez un poster de présentation de votre projet.
 Votre poster présentera de manière simple les éléments suivants : 
 
@@ -59,7 +59,6 @@ Votre affiche sera réalisée au format 50×70 cm, CMNJ, 300DPI
 
 Vous préparez également vos affiches de data art finale au format 50×70, 300DPI, CMJN pour impression.
 
-## Rendus
 ### Rendu de fin de session
 À la fin de la session, il vous est demandé de rendre l'ensemble du travail effectué sous la forme d'une série d'affiches au format 50×70cm 300DPI accompagnés des sources (programmes, fichier svg, psd...) et des itérations graphiques
 
@@ -90,6 +89,7 @@ Chaque exercice devra être *fait et rendu à l'heure*.
 
 * Portail OpenData.Paris : [https://opendata.paris.fr](https://opendata.paris.fr)
 * [Template P5.js](https://editor.p5js.org/arivaux@gmail.com/sketches/Oez5BggKv)
+* 
 
 ### Ressources Datavisualisation
 * [Une approche de la Datavisualisation](https://docs.google.com/presentation/d/1B0zyRjWXHLkOw4ZBHcSYy2JsCLYGqN18hnX92vayz5Q/edit?usp=sharing)
